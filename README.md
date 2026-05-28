@@ -1,4 +1,5 @@
-# Actividad DUOC UC - Debugging CRUD en Python
+
+# Ac<<<<<<< HEADtividad DUOC UC - Debugging CRUD en Python
 
 ## Descripción de la actividad
 
@@ -195,3 +196,6 @@ README.md
 ## Autor
 
 Actividad preparada para práctica de Python inicial en contexto DUOC UC.
+=======
+# FPY1101-009-PRUEBA2
+>>>>>>> 7708ca2291dda2634746fb72bf4c348240f0f2ef
